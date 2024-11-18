@@ -1,0 +1,2 @@
+# rule
+jsDelivr rules
